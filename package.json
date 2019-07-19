@@ -1,0 +1,14 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/massat/minesweeper",
+  "author": "massat <masato.hirai@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^5.0.7"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
